@@ -23,3 +23,5 @@ catalogo_recursos/
 ├── README.md 
 ├── requirements.txt 
 └── CHANGELOG.md
+
+Se incorporó informacion adicional en "fuentes_recomendadas.md y em criterios.md".
